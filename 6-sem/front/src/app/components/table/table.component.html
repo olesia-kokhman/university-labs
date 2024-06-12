@@ -1,0 +1,42 @@
+
+<button (click)="createLead()">Create Lead</button>
+<button (click)="getLeads()">Get all leads</button>
+<button (click)="getLeadById()">Get lead by id</button>
+<button (click)="updateLead()">Update Lead</button>
+<button (click)="deleteLead()">Delete Lead</button>
+
+<div>
+  <label for="newLeadId">ID:</label>
+  <input type="text" id="newLeadId" [(ngModel)]="new_id">
+</div>
+<div>
+  <label for="newLeadName">Name:</label>
+  <input type="text" id="newLeadName" [(ngModel)]="new_name">
+</div>
+<div>
+  <label for="newLeadLocation">Location:</label>
+  <input type="text" id="newLeadLocation" [(ngModel)]="new_location">
+</div>
+<div>
+  <label for="newLeadStatus">Status:</label>
+  <input type="text" id="newLeadStatus" [(ngModel)]="new_status">
+</div>
+
+<table *ngIf="showTable">
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Location</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of leads">
+      <td>{{ item.id }}</td>
+      <td>{{ item.name }}</td>
+      <td>{{ item.location }}</td>
+      <td>{{ item.status }}</td>
+    </tr>
+  </tbody>
+</table>
