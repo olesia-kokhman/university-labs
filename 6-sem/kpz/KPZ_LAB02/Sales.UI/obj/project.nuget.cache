@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RwVXwjFeTF/rmkmPWc/KcpOZ5PJ/QH/J68h9THVv3XPcT26Sh0Se5093tuoLqDMF6ew8Poyc6To1FvZ2nwJQ3w==",
+  "success": true,
+  "projectFilePath": "C:\\university\\6-sem\\kpz\\KPZ_LAB02\\Sales.UI\\Sales.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olesia\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Olesia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

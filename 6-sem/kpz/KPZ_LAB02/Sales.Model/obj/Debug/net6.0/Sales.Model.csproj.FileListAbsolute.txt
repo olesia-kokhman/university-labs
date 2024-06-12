@@ -1,0 +1,12 @@
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\bin\Debug\net6.0\Sales.Model.deps.json
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\bin\Debug\net6.0\Sales.Model.dll
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\bin\Debug\net6.0\Sales.Model.pdb
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.csproj.AssemblyReference.cache
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.AssemblyInfoInputs.cache
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.AssemblyInfo.cs
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.csproj.CoreCompileInputs.cache
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.dll
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\refint\Sales.Model.dll
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\Sales.Model.pdb
+C:\university\5-sem\KPZ\KPZ_LAB02\Sales.Model\obj\Debug\net6.0\ref\Sales.Model.dll
